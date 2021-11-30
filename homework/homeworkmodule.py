@@ -6,3 +6,5 @@ def findareasquare(length, width):
 def findareacircle(radius):
     area=(radius)
     return(area)
+
+#why not put print(area)
